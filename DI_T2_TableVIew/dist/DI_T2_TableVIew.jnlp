@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="DI_T2_TableVIew.jnlp">
+  <information>
+    <title>DI_T2_TableVIew</title>
+    <vendor>usuario</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="DI_T2_TableVIew.jar" size="5840" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="di_t2_tableview.DI_T2_TableVIew"  name="DI_T2_TableVIew" />
+  <update check="always"/>
+</jnlp>
